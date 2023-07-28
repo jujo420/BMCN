@@ -118,3 +118,9 @@ body {
   top: 0%;
   width: 100%;
 }
+.hands{
+  float:inline-start;
+  grid-row: auto;
+  width: 300px;
+  display: grid;
+}
