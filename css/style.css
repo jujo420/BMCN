@@ -112,3 +112,9 @@ body {
 #content_div {
   margin: 2rem;
 }
+#navBar {
+  overflow: hidden;
+  position: fixed;
+  top: 0%;
+  width: 100%;
+}
